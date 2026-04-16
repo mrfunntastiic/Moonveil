@@ -21,8 +21,8 @@
 ---
 
 ### 🚀 Projects in Orbit
-* **[Project A]**: A tool for automating social media content.
-* **[Project B]**: Modern portfolio for digital creators.
+* **MoonSMC**: A tool for automating social media content.
+* **PortoMC**: Modern portfolio for digital creators.
   </em> 
   <br>
 <div align= "center">
