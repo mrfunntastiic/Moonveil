@@ -17,6 +17,9 @@
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=05d9e8&height=30" />
+---
+
 ### ✨ About Me
 *"Turning ideas into digital reality through code and creativity."*
 
