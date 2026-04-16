@@ -1,13 +1,17 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi,%20I'm%20MrFunntastiic%20👋&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=130019&height=180&section=header&text=%E2%9C%A8%20Welcome%20to%20Moonveil's%20Workshop%20%E2%9C%A8&fontSize=50&fontColor=FF0000,FFFFFF" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Online_on_Grid-ff2a6d?style=for-the-badge&logo=codeforces&logoColor=130019" />
 </p>
 
 <p align="center">
   <a href="https://instagram.com/_moonveilcreatiopns" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-ff2a6d?style=for-the-badge&logo=instagram&logoColor=130019" alt="Instagram">
   </a>
   <a href="https://discord.gg/sSCgMWdR" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+    <img src="https://img.shields.io/badge/Discord-05d9e8?style=for-the-badge&logo=discord&logoColor=130019" alt="Discord">
   </a>
 </p>
 
